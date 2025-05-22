@@ -1,0 +1,1 @@
+# 这个文件已不再需要，shield_help_command已经在command_handlers.py中实现 
